@@ -1,0 +1,9 @@
+.AddPost {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+}
